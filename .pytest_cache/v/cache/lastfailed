@@ -1,3 +1,4 @@
 {
+  "test_maths.py::test_cube": true,
   "test_maths.py::test_square": true
 }
